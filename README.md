@@ -5,13 +5,12 @@
 - sleep_block.ts 数据块组件
 - sleepWave.ts 睡眠波形图主类
 
----
-
 ### 运行平台
 - Vue3框架
-
----
 
 ### 使用方法
 - 将除了SleepChart.vue以外的所有文件放入：项目/src/api/模块名/内
 - SleepChart.vue放入：项目/src/views/模块名/内，或者参考SleepChart.vue，直接在你的页面中开发
+
+### 效果图
+![Sleep Chart](/sleepwave-charts.png)
